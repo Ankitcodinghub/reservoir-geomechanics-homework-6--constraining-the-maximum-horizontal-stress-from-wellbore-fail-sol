@@ -1,0 +1,1 @@
+# reservoir-geomechanics-homework-6--constraining-the-maximum-horizontal-stress-from-wellbore-fail-sol
